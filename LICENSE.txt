@@ -1,0 +1,17 @@
+DxCamRec License
+
+Copyright (c) 2026 HDBENCH.NET
+
+1. DxCamRec ("the Software") is freeware. Anyone may use it free of charge, for personal or business use.
+
+2. You may redistribute the Software free of charge as long as the distributed files are not modified. Selling the Software, or including it in a paid product or collection, requires the author's permission.
+
+3. Do not modify, disassemble or decompile the Software.
+
+4. The Software is provided "as is", without warranty of any kind. The author is not liable for any damage arising from the use of, or inability to use, the Software, including recordings that were not made, recording files that were lost, and recordings deleted by the automatic cleanup settings. Keep important recordings in another place as well.
+
+5. When recording video and audio from cameras, follow the laws of the place where the cameras are installed and respect the privacy of the people recorded.
+
+6. Donations are voluntary. The Software works the same with or without a donation.
+
+Note: The Software uses Microsoft Media Foundation for video and audio. Showing H.265 video requires the "HEVC Video Extensions" of Windows.
