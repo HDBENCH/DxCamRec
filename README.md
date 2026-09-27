@@ -43,7 +43,7 @@ Get the latest release from **[Releases](https://github.com/HDBENCH/DxCamRec/rel
 ## Getting started
 
 1. Open **Cameras...** and add a camera with **Add...**. **Search...** looks for cameras on the network.
-2. The first button in the **Status** column starts and stops recording; the next one opens the video.
+2. The button in the **Status** column starts and stops recording; the one left of the camera name opens the video.
    Right-click a row for more, and use **Record all** / **Stop all** for every camera at once.
 3. **Settings** holds automatic cleanup, mail notification and "Start recording on startup".
 4. The close button (x) hides the window and keeps recording. Click the tray icon to bring it back,
