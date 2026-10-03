@@ -19,6 +19,8 @@ to your PC, around the clock, without re-encoding.
 - **Automatic cleanup**: the oldest recordings are deleted when the drive runs low on free space,
   or when they are older than a number of days.
 - **Camera search**: finds ONVIF cameras on the network and obtains the stream URL automatically.
+- **Clip extraction**: makes one file from the recordings of the selected cameras for a date and
+  time range. Nothing is re-encoded, so it is quick, and ranges across the hourly files are joined.
 - **Stays in the notification area.** The close button only hides the window; recording continues,
   and the tray icon shows a red lamp while recording.
 - **English and Japanese**, selected automatically from the Windows display language.
@@ -48,6 +50,7 @@ Get the latest release from **[Releases](https://github.com/HDBENCH/DxCamRec/rel
 3. **Settings** holds automatic cleanup, mail notification and "Start recording on startup".
 4. The close button (x) hides the window and keeps recording. Click the tray icon to bring it back,
    or right-click it and choose **Exit** to close DxCamRec.
+5. **Video** > **Extract a clip...** cuts a date and time range out of the recordings.
 
 Settings and logs are stored in the folder containing the executable for the zip edition, and in
 `C:\ProgramData\DxCamRec\` when installed with the MSI. Recordings are written to the output folder
@@ -60,6 +63,11 @@ DxCamRec is **freeware** — free for personal and business use. See [LICENSE.tx
 
 If DxCamRec is useful to you, a donation is welcome and entirely voluntary — the software works the
 same either way. The **About** screen has the link.
+
+## Contact
+
+- Bug reports and requests: [Issues](https://github.com/HDBENCH/DxCamRec/issues)
+- Mail: hdbenchnet@gmail.com
 
 ---
 
